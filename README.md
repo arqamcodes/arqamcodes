@@ -7,8 +7,8 @@ In addition to my programming skills, I possess a proficiency in web development
 <br/>
 <br/>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=wardaharshad&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wardaharshad&layout=compact&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=arqamcodes&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arqamcodes&layout=compact&theme=radical)
 
 # My Work and website
 -[LinkedIn](https://www.linkedin.com/in/wardah-arshad-4b467021b/)
